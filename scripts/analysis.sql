@@ -1,3 +1,16 @@
+/*
+    SQL Portfolio Project: Mental Health Analysis
+    ---------------------------------------------------
+    This project analyzes mental health diagnostic scores
+    of international students based on their length of stay.
+
+    Query Overview:
+    - Counts the number of international students per stay length.
+    - Computes average PHQ-9, SCS, and ASISS test scores.
+    
+    # Keeping this comment block to ensure GitHub detects SQL
+*/
+
 -- Analyze mental health scores by length of stay for international students
 SELECT 
   stay, 
