@@ -10,6 +10,8 @@
 
 ## 📌 Project Overview
 This project analyzes how the **length of stay** (`stay`) impacts mental health scores (depression, social connectedness, and acculturative stress) for international students at a Japanese university. The goal is to determine if longer stays correlate with higher mental health risks.
+- **Language:** SQL (GitHub may not detect it due to file size).  
+- **Objective:** Analyze PHQ-9, SCS, and ASISS scores for students.
 
 ## 🛠️ SQL Analysis
 ### Key Requirements:
