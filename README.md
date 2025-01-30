@@ -1,4 +1,4 @@
-# Student Mental Health Analysis
+# Student Mental Health Analysis 
 
 ## Table of Contents
 - [Project Overview](#-project-overview)
