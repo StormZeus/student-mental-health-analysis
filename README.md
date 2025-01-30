@@ -67,3 +67,6 @@ Grouped results by `stay` to analyze trends by length of stay.
 
 ### Sorting  
 Ordered results by `stay DESC` to prioritize longer stays.
+
+## 📸 Screenshot
+![Query Results](images/results.PNG)
