@@ -18,6 +18,7 @@ This project analyzes how the **length of stay** (`stay`) impacts mental health 
 - Sort results by `stay` in **descending order**.
 
 ### SQL Query
+```sql
 SELECT 
     stay, 
     COUNT(*) AS count_int,
@@ -28,7 +29,7 @@ FROM students
 WHERE inter_dom = 'Inter'
 GROUP BY stay
 ORDER BY stay DESC;
-
+```
 ## 📊 Results
 
 | stay | count_int | average_phq | average_scs | average_as |
