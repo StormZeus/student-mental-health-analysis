@@ -1,1 +1,2 @@
-*.sql linguist-language=SQL
+# Force GitHub to recognize SQL files in the scripts/ folder
+scripts/*.sql linguist-language=SQL
